@@ -4,4 +4,3 @@ def parrot (name = "Squawk!")
 puts "#{parrot}"
 parrot
 end
-parrot
